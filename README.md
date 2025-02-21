@@ -1,6 +1,6 @@
 ### Hi, I'm Henok!
 
-👨🏻‍💻 Software Engineer learning and building in tech<br/>
+👨🏻‍💻 Software Engineer: learning and building in tech<br/>
 🎓 Studied Computer Science at Indiana University Purdue University Indianapolis, USA <br/>
 💡 Currently learning about UX/UI design<br/>
 💻 Checkout My [Portfolio Website](https://henoktech.vercel.app/)
